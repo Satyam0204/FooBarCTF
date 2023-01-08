@@ -3,7 +3,7 @@ const second = 1000,
   hour = minute * 60,
   day = hour * 24;
 
-var time = 1677328200000
+var time = 1676118600000
 console.log(time);
 
 let countDown = new Date(time).getTime();
